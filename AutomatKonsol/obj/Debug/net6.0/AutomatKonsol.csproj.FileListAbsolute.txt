@@ -1,0 +1,15 @@
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/bin/Debug/net6.0/AutomatKonsol
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/bin/Debug/net6.0/AutomatKonsol.deps.json
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/bin/Debug/net6.0/AutomatKonsol.runtimeconfig.json
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/bin/Debug/net6.0/AutomatKonsol.dll
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/bin/Debug/net6.0/AutomatKonsol.pdb
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.csproj.AssemblyReference.cache
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.AssemblyInfoInputs.cache
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.AssemblyInfo.cs
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.csproj.CoreCompileInputs.cache
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.dll
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/refint/AutomatKonsol.dll
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.pdb
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/AutomatKonsol.genruntimeconfig.cache
+/Users/elhabib/Projects/AutomatKonsol/AutomatKonsol/obj/Debug/net6.0/ref/AutomatKonsol.dll
